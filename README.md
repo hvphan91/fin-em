@@ -2,7 +2,7 @@ data and code for fin-em project
 
 ## data availability: public domain, accessible via the following link for main variables
 
-CO2	CO2 Emissions: 	World Bank Development Indicators
+CO2: 	World Bank Development Indicators (https://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 FIREVA:	OECD Annual National Accounts (https://data.oecd.org/natincome/value-added-by-activity.htm)
 
