@@ -1,4 +1,3 @@
-# fin-em
 data and code for fin-em project
 
 ## data availability: public domain, accessible via the following link for main variables
